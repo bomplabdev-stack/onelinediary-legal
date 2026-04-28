@@ -76,5 +76,3 @@
 
 ---
 
-*このファイルを GitHub Pages、Google サイト、Notion などで公開し、
-app_config.dart の privacyPolicyUrl を実際の URL に更新してください。*
